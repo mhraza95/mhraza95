@@ -8,8 +8,8 @@ Hello! I'm Hassan Raza, a Software Engineer based in India. I specialize in Back
 - **Other**: Python, Javascript.
 
 ## 🎓Education
-- **M.S**, Woolf University, 2024
-- **B.E**, VTU, 2017
+- **M.S**, Computer Science (Specialization Software Engineering), Woolf University, 2024
+- **B.E**, Information Science & Engineering, VTU, 2017
 
 ## 📔 Certifications
 - MCD Level 1, Mulesoft, 2021
