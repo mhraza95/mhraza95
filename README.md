@@ -12,7 +12,7 @@ Hello! I'm [Your Name], a [Your Profession] based in [Location]. I specialize in
 ## Skills
 - **Programming Languages**: Java.
 - **Frameworks/Tools**: Spring Boot, Mulesoft.
-- **Other**: Python.
+- **Other**: Python, Javascript.
 
 ## Education
 - **M.S**, Woolf University, 2024
