@@ -1,5 +1,3 @@
-# Hassan Raza 👋
-
 ## About Me
 Hello! I'm Hassan Raza, a Software Engineer based in India. I specialize in Backend development and have 5+ years of experience working with Java, Spring Boot, and Mulesoft. I'm passionate about creating impactful and efficient solutions that address real-world problems.
 
