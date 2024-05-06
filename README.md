@@ -9,7 +9,7 @@ Hello! I'm Hassan Raza, a Software Engineer based in India. I specialize in Back
 
 ## Skills
 - **Programming Languages**: Java.
-- **Frameworks/Tools**: Spring Boot, Mulesoft, AWS, Azure, Git and Intellij IDE.
+- **Frameworks/Tools**: Spring Boot, Mulesoft, AWS, Azure, Git and IntelliJ IDE.
 - **Other**: Python, Javascript.
 
 ## Education
