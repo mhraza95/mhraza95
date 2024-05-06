@@ -1,7 +1,7 @@
 ### Hi there, I'm Hassan Raza 👋
 
 ## About Me
-Hello! I'm [Your Name], a [Your Profession] based in [Location]. I specialize in [Your Specialization] and have [number] years of experience working with [technologies or tools]. I'm passionate about creating impactful and efficient solutions that address real-world problems.
+Hello! I'm Hassan Raza, a Software Engineer based in India. I specialize in Backend development and have 5+ years of experience working with Java, Spring Boot, and Mulesoft. I'm passionate about creating impactful and efficient solutions that address real-world problems.
 
 ### Contact
 - 📫 How to reach me: [mhraza95@gmail.com]
